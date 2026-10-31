@@ -1,0 +1,1001 @@
+ride_id,request_time,pickup_area,drop_area,vehicle_type,ride_status
+1,"2026-09-17 16:54:00",Kukatpally,Kukatpally,Bike,Cancelled
+2,"2026-08-28 18:20:00","Banjara Hills","Hitech City",Auto,Cancelled
+3,"2026-08-04 12:21:00",Gachibowli,Kondapur,Cab,Completed
+4,"2026-09-17 16:40:00",Kukatpally,Kukatpally,Auto,Completed
+5,"2026-08-11 18:55:00",Miyapur,Gachibowli,Cab,Completed
+6,"2026-09-14 11:03:00","Banjara Hills",Ameerpet,Bike,Completed
+7,"2026-08-06 17:56:00",Kukatpally,Gachibowli,Bike,Completed
+8,"2026-07-13 00:12:00",Ameerpet,Ameerpet,Auto,Completed
+9,"2026-07-23 18:57:00","Hitech City",Madhapur,Bike,Completed
+10,"2026-08-02 14:37:00",Miyapur,Kondapur,Cab,Cancelled
+11,"2026-07-10 06:47:00","Hitech City",Madhapur,Auto,Cancelled
+12,"2026-08-19 06:41:00",Madhapur,"Banjara Hills",Auto,Completed
+13,"2026-09-05 04:26:00",Kondapur,Kondapur,Auto,Completed
+14,"2026-08-24 03:48:00","Jubilee Hills",Miyapur,Auto,Completed
+15,"2026-07-01 14:18:00","Jubilee Hills","Jubilee Hills",Bike,Completed
+16,"2026-09-06 01:41:00",Gachibowli,Secunderabad,Cab,Completed
+17,"2026-09-23 18:59:00",Ameerpet,"Hitech City",Auto,Cancelled
+18,"2026-09-22 09:34:00","Banjara Hills",Miyapur,Cab,Cancelled
+19,"2026-07-07 17:36:00",Ameerpet,"Jubilee Hills",Cab,Completed
+20,"2026-09-12 04:04:00",Gachibowli,Madhapur,Auto,Completed
+21,"2026-09-04 10:50:00",Gachibowli,"Jubilee Hills",Bike,Cancelled
+22,"2026-08-14 12:34:00",Gachibowli,Madhapur,Auto,Completed
+23,"2026-09-27 09:36:00","Hitech City","Banjara Hills",Auto,Completed
+24,"2026-08-27 17:40:00",Madhapur,Kukatpally,Auto,Cancelled
+25,"2026-07-08 01:17:00",Madhapur,"Jubilee Hills",Bike,Completed
+26,"2026-09-01 08:37:00",Gachibowli,Madhapur,Bike,Cancelled
+27,"2026-07-23 11:14:00",Kukatpally,Ameerpet,Bike,Completed
+28,"2026-07-28 03:15:00",Gachibowli,Ameerpet,Auto,Cancelled
+29,"2026-08-25 20:16:00","Banjara Hills",Gachibowli,Bike,Completed
+30,"2026-07-03 05:41:00","Hitech City","Hitech City",Auto,Completed
+31,"2026-07-08 00:27:00",Kukatpally,"Hitech City",Bike,Cancelled
+32,"2026-07-03 20:44:00",Ameerpet,Madhapur,Cab,Cancelled
+33,"2026-08-13 20:40:00",Miyapur,"Jubilee Hills",Bike,Completed
+34,"2026-07-24 11:09:00",Secunderabad,Gachibowli,Auto,Completed
+35,"2026-07-08 08:41:00",Ameerpet,Secunderabad,Auto,Completed
+36,"2026-08-02 07:07:00","Hitech City","Banjara Hills",Bike,Completed
+37,"2026-07-30 12:35:00","Hitech City",Kondapur,Cab,Completed
+38,"2026-09-13 04:19:00",Miyapur,Miyapur,Auto,Completed
+39,"2026-08-27 13:01:00","Banjara Hills","Jubilee Hills",Cab,Completed
+40,"2026-08-03 03:48:00",Secunderabad,"Hitech City",Auto,Cancelled
+41,"2026-08-08 23:37:00",Miyapur,Gachibowli,Cab,Completed
+42,"2026-07-14 11:58:00",Ameerpet,"Banjara Hills",Bike,Cancelled
+43,"2026-08-02 20:38:00","Jubilee Hills",Kukatpally,Auto,Cancelled
+44,"2026-08-01 06:57:00","Banjara Hills",Ameerpet,Auto,Completed
+45,"2026-08-16 21:25:00",Miyapur,Ameerpet,Bike,Completed
+46,"2026-09-25 04:48:00",Kukatpally,"Jubilee Hills",Bike,Completed
+47,"2026-07-02 09:26:00","Jubilee Hills",Miyapur,Auto,Cancelled
+48,"2026-07-06 10:57:00",Kukatpally,Gachibowli,Auto,Completed
+49,"2026-08-27 04:23:00",Miyapur,Madhapur,Cab,Completed
+50,"2026-07-29 11:35:00",Miyapur,Gachibowli,Auto,Cancelled
+51,"2026-08-15 17:35:00",Secunderabad,Secunderabad,Bike,Completed
+52,"2026-08-20 03:36:00",Secunderabad,"Hitech City",Auto,Completed
+53,"2026-08-20 14:21:00",Ameerpet,Gachibowli,Cab,Completed
+54,"2026-08-05 23:14:00","Jubilee Hills",Secunderabad,Bike,Completed
+55,"2026-07-08 19:02:00",Secunderabad,Gachibowli,Auto,Completed
+56,"2026-08-30 16:26:00",Ameerpet,Ameerpet,Cab,Completed
+57,"2026-07-27 22:41:00","Hitech City",Miyapur,Bike,Cancelled
+58,"2026-07-25 13:23:00",Madhapur,Madhapur,Cab,Completed
+59,"2026-08-04 05:46:00",Miyapur,Kondapur,Bike,Cancelled
+60,"2026-07-31 10:42:00",Madhapur,Kondapur,Bike,Completed
+61,"2026-09-21 16:08:00",Kondapur,"Banjara Hills",Bike,Completed
+62,"2026-07-09 05:56:00",Kukatpally,Ameerpet,Bike,Completed
+63,"2026-08-10 23:18:00","Jubilee Hills",Miyapur,Bike,Completed
+64,"2026-09-10 20:38:00","Jubilee Hills",Madhapur,Bike,Completed
+65,"2026-09-16 04:33:00",Kondapur,Madhapur,Auto,Completed
+66,"2026-08-03 18:56:00",Secunderabad,"Hitech City",Auto,Completed
+67,"2026-07-28 09:08:00",Kondapur,Kukatpally,Bike,Completed
+68,"2026-08-08 01:00:00","Banjara Hills","Hitech City",Cab,Completed
+69,"2026-07-16 05:58:00","Hitech City","Jubilee Hills",Auto,Completed
+70,"2026-09-10 10:36:00",Kondapur,"Banjara Hills",Auto,Cancelled
+71,"2026-08-28 10:54:00",Miyapur,Ameerpet,Bike,Completed
+72,"2026-09-08 16:45:00","Hitech City","Banjara Hills",Cab,Completed
+73,"2026-07-29 04:14:00",Kukatpally,"Banjara Hills",Auto,Cancelled
+74,"2026-08-22 17:08:00",Madhapur,"Banjara Hills",Auto,Cancelled
+75,"2026-08-28 07:57:00","Jubilee Hills",Miyapur,Bike,Completed
+76,"2026-07-19 07:09:00",Gachibowli,"Banjara Hills",Bike,Cancelled
+77,"2026-07-04 07:13:00",Kondapur,"Banjara Hills",Cab,Cancelled
+78,"2026-08-18 06:14:00",Secunderabad,Secunderabad,Cab,Completed
+79,"2026-09-02 14:01:00","Jubilee Hills",Gachibowli,Cab,Completed
+80,"2026-07-04 19:55:00",Kondapur,Gachibowli,Cab,Completed
+81,"2026-07-25 13:54:00",Kondapur,Gachibowli,Bike,Completed
+82,"2026-08-26 12:51:00",Kukatpally,Gachibowli,Cab,Cancelled
+83,"2026-08-20 00:20:00",Secunderabad,Kondapur,Auto,Completed
+84,"2026-09-28 10:32:00",Gachibowli,Kondapur,Auto,Cancelled
+85,"2026-08-08 11:20:00","Jubilee Hills",Secunderabad,Cab,Completed
+86,"2026-09-04 12:30:00",Gachibowli,Kondapur,Auto,Completed
+87,"2026-09-28 17:00:00",Secunderabad,Gachibowli,Cab,Cancelled
+88,"2026-08-14 09:53:00",Miyapur,Kondapur,Auto,Completed
+89,"2026-09-18 18:18:00","Jubilee Hills",Kondapur,Auto,Completed
+90,"2026-07-26 21:59:00",Kukatpally,"Banjara Hills",Cab,Completed
+91,"2026-09-03 08:30:00",Kondapur,Madhapur,Bike,Completed
+92,"2026-07-07 21:12:00",Kondapur,Gachibowli,Auto,Cancelled
+93,"2026-08-05 02:23:00",Gachibowli,Kondapur,Cab,Completed
+94,"2026-09-25 04:57:00","Jubilee Hills",Miyapur,Auto,Cancelled
+95,"2026-09-02 01:35:00",Kukatpally,Ameerpet,Auto,Cancelled
+96,"2026-09-01 23:31:00",Madhapur,Miyapur,Cab,Cancelled
+97,"2026-07-01 15:17:00","Hitech City","Banjara Hills",Cab,Cancelled
+98,"2026-09-15 12:09:00",Gachibowli,Kondapur,Auto,Completed
+99,"2026-09-08 09:14:00",Ameerpet,Kondapur,Cab,Completed
+100,"2026-09-03 21:48:00",Madhapur,Madhapur,Auto,Completed
+101,"2026-07-24 02:53:00",Madhapur,"Jubilee Hills",Bike,Completed
+102,"2026-09-01 12:44:00",Kukatpally,Kondapur,Bike,Completed
+103,"2026-09-19 03:46:00",Kukatpally,Secunderabad,Cab,Completed
+104,"2026-09-04 20:26:00","Banjara Hills",Kukatpally,Bike,Completed
+105,"2026-07-18 18:24:00",Ameerpet,Gachibowli,Cab,Completed
+106,"2026-07-03 07:54:00","Banjara Hills","Hitech City",Cab,Completed
+107,"2026-09-21 23:39:00",Miyapur,Ameerpet,Cab,Completed
+108,"2026-09-26 11:35:00",Madhapur,"Jubilee Hills",Bike,Completed
+109,"2026-09-01 06:11:00",Kukatpally,Gachibowli,Cab,Completed
+110,"2026-08-09 21:24:00",Kondapur,"Banjara Hills",Bike,Cancelled
+111,"2026-09-11 05:58:00",Secunderabad,Madhapur,Bike,Cancelled
+112,"2026-07-13 16:12:00","Jubilee Hills","Banjara Hills",Auto,Cancelled
+113,"2026-09-16 05:29:00",Madhapur,"Hitech City",Bike,Completed
+114,"2026-07-31 03:03:00",Kukatpally,Miyapur,Auto,Completed
+115,"2026-07-18 18:32:00","Banjara Hills",Kondapur,Auto,Completed
+116,"2026-07-12 00:16:00",Secunderabad,Ameerpet,Bike,Cancelled
+117,"2026-09-01 21:32:00","Banjara Hills",Secunderabad,Cab,Completed
+118,"2026-08-10 20:28:00","Banjara Hills","Hitech City",Auto,Cancelled
+119,"2026-09-02 19:05:00",Gachibowli,Kukatpally,Bike,Completed
+120,"2026-07-07 00:02:00",Gachibowli,"Banjara Hills",Auto,Completed
+121,"2026-08-05 21:57:00",Secunderabad,Kukatpally,Cab,Completed
+122,"2026-07-12 06:26:00",Kukatpally,Secunderabad,Cab,Completed
+123,"2026-07-04 11:18:00",Madhapur,Secunderabad,Bike,Completed
+124,"2026-07-27 16:45:00","Banjara Hills",Ameerpet,Cab,Completed
+125,"2026-08-10 19:29:00","Banjara Hills",Ameerpet,Bike,Completed
+126,"2026-07-06 10:06:00",Gachibowli,Miyapur,Bike,Cancelled
+127,"2026-08-12 23:50:00","Banjara Hills","Hitech City",Bike,Cancelled
+128,"2026-08-09 09:50:00",Ameerpet,Kukatpally,Cab,Completed
+129,"2026-07-08 14:33:00",Madhapur,Madhapur,Bike,Cancelled
+130,"2026-08-24 20:15:00",Gachibowli,"Hitech City",Auto,Completed
+131,"2026-07-29 20:23:00",Madhapur,Gachibowli,Bike,Completed
+132,"2026-09-19 16:55:00",Miyapur,Madhapur,Auto,Cancelled
+133,"2026-07-03 23:15:00","Hitech City",Madhapur,Bike,Completed
+134,"2026-08-25 01:19:00",Gachibowli,Miyapur,Bike,Completed
+135,"2026-07-09 12:00:00",Gachibowli,Gachibowli,Cab,Completed
+136,"2026-07-06 18:27:00",Secunderabad,Gachibowli,Cab,Cancelled
+137,"2026-07-30 12:43:00","Jubilee Hills","Hitech City",Bike,Completed
+138,"2026-07-09 07:54:00",Miyapur,"Hitech City",Auto,Cancelled
+139,"2026-09-15 16:20:00",Kukatpally,Kondapur,Cab,Completed
+140,"2026-09-13 22:19:00",Ameerpet,Madhapur,Bike,Completed
+141,"2026-08-19 20:52:00",Secunderabad,Secunderabad,Bike,Completed
+142,"2026-08-24 20:00:00",Miyapur,Secunderabad,Cab,Completed
+143,"2026-07-28 11:11:00","Jubilee Hills",Kondapur,Auto,Cancelled
+144,"2026-07-08 20:56:00","Jubilee Hills",Madhapur,Cab,Completed
+145,"2026-09-03 16:44:00",Kondapur,Madhapur,Auto,Cancelled
+146,"2026-07-15 01:45:00",Kondapur,"Hitech City",Cab,Completed
+147,"2026-08-25 19:04:00",Kondapur,Madhapur,Auto,Completed
+148,"2026-08-04 18:48:00",Madhapur,"Banjara Hills",Bike,Completed
+149,"2026-09-12 23:27:00","Banjara Hills",Gachibowli,Auto,Completed
+150,"2026-09-01 03:48:00","Banjara Hills","Jubilee Hills",Auto,Completed
+151,"2026-08-29 05:33:00",Gachibowli,"Banjara Hills",Auto,Cancelled
+152,"2026-08-13 08:45:00",Madhapur,Kondapur,Auto,Cancelled
+153,"2026-08-07 12:44:00",Secunderabad,"Banjara Hills",Cab,Completed
+154,"2026-07-14 12:03:00",Kukatpally,Secunderabad,Cab,Cancelled
+155,"2026-07-07 15:55:00",Ameerpet,"Hitech City",Auto,Completed
+156,"2026-08-25 13:29:00",Ameerpet,Ameerpet,Bike,Completed
+157,"2026-08-22 11:50:00",Kondapur,Kukatpally,Cab,Completed
+158,"2026-09-07 22:49:00",Kondapur,Kondapur,Cab,Cancelled
+159,"2026-08-01 17:02:00",Kondapur,Kukatpally,Cab,Cancelled
+160,"2026-07-01 09:25:00",Kukatpally,Madhapur,Bike,Cancelled
+161,"2026-08-25 18:20:00",Ameerpet,"Banjara Hills",Cab,Completed
+162,"2026-08-26 13:50:00","Hitech City",Kukatpally,Auto,Cancelled
+163,"2026-09-22 12:38:00","Banjara Hills",Madhapur,Bike,Cancelled
+164,"2026-07-04 03:43:00",Kukatpally,"Hitech City",Bike,Completed
+165,"2026-09-02 13:51:00",Kukatpally,Gachibowli,Auto,Cancelled
+166,"2026-09-21 14:51:00","Jubilee Hills",Miyapur,Bike,Completed
+167,"2026-09-12 15:18:00","Hitech City",Kondapur,Bike,Cancelled
+168,"2026-07-29 01:39:00",Gachibowli,Madhapur,Cab,Completed
+169,"2026-09-25 00:28:00","Hitech City",Gachibowli,Bike,Completed
+170,"2026-08-22 16:17:00",Miyapur,Secunderabad,Auto,Completed
+171,"2026-07-30 22:28:00",Gachibowli,Kukatpally,Cab,Cancelled
+172,"2026-09-02 09:40:00",Secunderabad,Ameerpet,Auto,Completed
+173,"2026-08-16 10:10:00","Banjara Hills",Kondapur,Cab,Completed
+174,"2026-07-31 12:54:00",Gachibowli,Miyapur,Bike,Completed
+175,"2026-07-20 13:22:00","Jubilee Hills",Kondapur,Cab,Cancelled
+176,"2026-09-10 11:18:00",Kukatpally,Ameerpet,Cab,Completed
+177,"2026-08-28 20:30:00",Ameerpet,Ameerpet,Bike,Completed
+178,"2026-07-31 04:05:00","Banjara Hills",Gachibowli,Bike,Completed
+179,"2026-09-02 09:46:00","Jubilee Hills",Madhapur,Cab,Completed
+180,"2026-09-07 13:13:00",Miyapur,"Hitech City",Auto,Completed
+181,"2026-09-23 03:11:00",Madhapur,Madhapur,Cab,Completed
+182,"2026-08-30 17:05:00",Miyapur,"Jubilee Hills",Cab,Completed
+183,"2026-09-11 14:11:00",Miyapur,Secunderabad,Cab,Cancelled
+184,"2026-07-16 12:44:00",Kondapur,Miyapur,Cab,Cancelled
+185,"2026-08-18 12:13:00",Kondapur,"Jubilee Hills",Cab,Completed
+186,"2026-08-22 23:39:00",Secunderabad,"Jubilee Hills",Bike,Completed
+187,"2026-07-15 17:32:00",Ameerpet,"Jubilee Hills",Bike,Completed
+188,"2026-09-16 03:21:00",Gachibowli,Secunderabad,Auto,Cancelled
+189,"2026-07-22 23:25:00","Banjara Hills",Secunderabad,Cab,Completed
+190,"2026-08-31 18:53:00",Kondapur,Gachibowli,Cab,Cancelled
+191,"2026-07-23 16:59:00",Ameerpet,Madhapur,Bike,Completed
+192,"2026-08-03 18:05:00","Banjara Hills",Kukatpally,Auto,Completed
+193,"2026-09-14 06:36:00",Kukatpally,"Banjara Hills",Cab,Completed
+194,"2026-07-10 06:03:00",Kondapur,Miyapur,Bike,Completed
+195,"2026-09-24 10:05:00",Kukatpally,Gachibowli,Auto,Cancelled
+196,"2026-09-07 10:11:00",Secunderabad,Ameerpet,Bike,Completed
+197,"2026-08-13 13:42:00","Banjara Hills",Madhapur,Bike,Cancelled
+198,"2026-07-27 18:12:00",Secunderabad,Kondapur,Cab,Completed
+199,"2026-09-20 23:09:00","Jubilee Hills","Jubilee Hills",Auto,Completed
+200,"2026-09-27 22:58:00",Miyapur,"Banjara Hills",Auto,Cancelled
+201,"2026-07-01 16:58:00","Hitech City",Secunderabad,Auto,Completed
+202,"2026-09-13 10:27:00",Ameerpet,"Banjara Hills",Auto,Completed
+203,"2026-07-03 00:27:00",Kondapur,"Hitech City",Auto,Completed
+204,"2026-08-20 23:50:00",Miyapur,Secunderabad,Cab,Completed
+205,"2026-08-08 08:06:00","Banjara Hills",Secunderabad,Bike,Completed
+206,"2026-08-24 10:07:00","Hitech City",Secunderabad,Auto,Completed
+207,"2026-07-20 12:28:00","Banjara Hills",Ameerpet,Cab,Completed
+208,"2026-07-28 09:21:00",Miyapur,Secunderabad,Bike,Completed
+209,"2026-08-06 07:31:00",Madhapur,"Banjara Hills",Auto,Cancelled
+210,"2026-08-31 22:27:00",Gachibowli,Ameerpet,Cab,Cancelled
+211,"2026-07-20 02:07:00",Kondapur,Kukatpally,Auto,Completed
+212,"2026-08-29 04:04:00",Secunderabad,Kondapur,Cab,Completed
+213,"2026-07-22 10:19:00",Gachibowli,Kukatpally,Bike,Completed
+214,"2026-07-31 01:41:00",Madhapur,Gachibowli,Bike,Cancelled
+215,"2026-07-30 14:24:00",Secunderabad,Miyapur,Auto,Completed
+216,"2026-07-10 17:57:00","Jubilee Hills",Secunderabad,Cab,Completed
+217,"2026-08-30 21:24:00",Kondapur,Gachibowli,Bike,Cancelled
+218,"2026-08-31 18:17:00",Ameerpet,"Hitech City",Cab,Cancelled
+219,"2026-09-06 21:51:00",Kondapur,"Hitech City",Bike,Completed
+220,"2026-09-17 13:58:00",Kondapur,Kondapur,Cab,Cancelled
+221,"2026-09-15 17:09:00",Secunderabad,Gachibowli,Auto,Cancelled
+222,"2026-09-26 22:09:00","Banjara Hills",Madhapur,Cab,Completed
+223,"2026-08-03 11:35:00","Jubilee Hills",Kukatpally,Bike,Cancelled
+224,"2026-09-14 07:48:00","Banjara Hills",Gachibowli,Auto,Completed
+225,"2026-07-22 09:54:00",Kondapur,Miyapur,Cab,Cancelled
+226,"2026-09-23 05:04:00","Hitech City",Miyapur,Auto,Completed
+227,"2026-08-11 13:28:00",Secunderabad,"Jubilee Hills",Cab,Cancelled
+228,"2026-09-14 07:07:00",Gachibowli,Madhapur,Cab,Cancelled
+229,"2026-09-13 03:58:00","Jubilee Hills","Jubilee Hills",Auto,Completed
+230,"2026-07-12 12:49:00","Banjara Hills",Miyapur,Auto,Cancelled
+231,"2026-07-30 14:20:00",Secunderabad,Ameerpet,Cab,Completed
+232,"2026-09-09 02:54:00",Ameerpet,Miyapur,Bike,Cancelled
+233,"2026-09-06 05:26:00",Madhapur,"Banjara Hills",Auto,Cancelled
+234,"2026-09-23 13:04:00",Ameerpet,Ameerpet,Auto,Completed
+235,"2026-08-06 18:38:00","Jubilee Hills","Banjara Hills",Auto,Completed
+236,"2026-09-12 10:29:00",Kukatpally,Ameerpet,Bike,Completed
+237,"2026-08-01 06:27:00",Secunderabad,Miyapur,Auto,Completed
+238,"2026-07-21 21:39:00",Kukatpally,"Hitech City",Auto,Completed
+239,"2026-08-31 15:20:00",Kukatpally,"Hitech City",Auto,Completed
+240,"2026-07-09 12:51:00",Gachibowli,Kukatpally,Auto,Completed
+241,"2026-08-03 04:53:00","Banjara Hills",Kukatpally,Auto,Completed
+242,"2026-09-07 01:10:00","Jubilee Hills",Secunderabad,Auto,Completed
+243,"2026-07-18 12:21:00","Hitech City",Kondapur,Bike,Cancelled
+244,"2026-07-27 20:54:00",Ameerpet,"Hitech City",Cab,Completed
+245,"2026-09-13 22:31:00",Gachibowli,"Hitech City",Auto,Completed
+246,"2026-09-06 17:39:00",Gachibowli,Ameerpet,Cab,Completed
+247,"2026-08-06 19:50:00","Banjara Hills",Kukatpally,Auto,Completed
+248,"2026-08-15 23:25:00",Secunderabad,Miyapur,Auto,Cancelled
+249,"2026-07-17 12:56:00","Hitech City",Secunderabad,Auto,Completed
+250,"2026-07-04 05:28:00","Hitech City",Gachibowli,Bike,Completed
+251,"2026-08-21 03:22:00",Kukatpally,Kukatpally,Cab,Completed
+252,"2026-07-11 21:24:00",Madhapur,"Hitech City",Auto,Cancelled
+253,"2026-09-11 01:22:00","Hitech City",Miyapur,Cab,Completed
+254,"2026-09-01 14:42:00","Hitech City",Madhapur,Auto,Completed
+255,"2026-09-03 13:15:00",Kondapur,Madhapur,Bike,Completed
+256,"2026-09-18 19:25:00",Secunderabad,Secunderabad,Cab,Completed
+257,"2026-08-25 21:55:00",Madhapur,Ameerpet,Auto,Completed
+258,"2026-07-23 09:25:00","Banjara Hills","Jubilee Hills",Cab,Completed
+259,"2026-08-27 17:35:00",Gachibowli,"Jubilee Hills",Bike,Completed
+260,"2026-07-10 13:47:00",Kondapur,"Jubilee Hills",Bike,Completed
+261,"2026-08-31 21:46:00","Jubilee Hills",Gachibowli,Auto,Completed
+262,"2026-08-02 11:14:00","Banjara Hills",Kukatpally,Auto,Completed
+263,"2026-07-20 15:02:00","Jubilee Hills",Ameerpet,Bike,Completed
+264,"2026-07-31 03:54:00",Kondapur,"Jubilee Hills",Bike,Completed
+265,"2026-08-19 02:02:00",Gachibowli,Ameerpet,Cab,Completed
+266,"2026-09-04 18:34:00",Kukatpally,Kukatpally,Cab,Completed
+267,"2026-08-25 23:57:00",Ameerpet,"Banjara Hills",Cab,Completed
+268,"2026-08-20 04:54:00",Miyapur,Kukatpally,Auto,Completed
+269,"2026-08-28 21:29:00","Banjara Hills",Madhapur,Auto,Cancelled
+270,"2026-07-25 14:07:00",Ameerpet,Madhapur,Auto,Completed
+271,"2026-09-01 23:23:00",Madhapur,Kondapur,Cab,Completed
+272,"2026-08-03 01:28:00","Jubilee Hills",Kondapur,Auto,Cancelled
+273,"2026-08-15 05:44:00",Kukatpally,Ameerpet,Cab,Completed
+274,"2026-09-06 22:44:00",Kukatpally,"Banjara Hills",Bike,Cancelled
+275,"2026-09-11 03:12:00",Kukatpally,Miyapur,Bike,Completed
+276,"2026-07-26 08:58:00","Jubilee Hills",Madhapur,Auto,Completed
+277,"2026-09-09 19:58:00",Ameerpet,"Banjara Hills",Bike,Completed
+278,"2026-09-21 17:30:00",Gachibowli,"Hitech City",Cab,Completed
+279,"2026-07-26 09:54:00",Gachibowli,Madhapur,Bike,Completed
+280,"2026-07-14 09:26:00",Kondapur,Gachibowli,Bike,Completed
+281,"2026-07-29 16:33:00",Kukatpally,Madhapur,Bike,Completed
+282,"2026-08-29 13:38:00",Madhapur,Madhapur,Auto,Completed
+283,"2026-08-23 16:19:00",Miyapur,Kukatpally,Cab,Completed
+284,"2026-08-10 09:07:00","Banjara Hills",Secunderabad,Bike,Completed
+285,"2026-08-07 00:35:00",Kondapur,Gachibowli,Bike,Completed
+286,"2026-08-18 04:32:00",Kondapur,Madhapur,Auto,Completed
+287,"2026-08-30 08:59:00",Gachibowli,"Hitech City",Auto,Cancelled
+288,"2026-08-07 11:03:00","Jubilee Hills",Miyapur,Bike,Completed
+289,"2026-09-28 13:52:00",Ameerpet,Madhapur,Cab,Completed
+290,"2026-08-28 15:35:00","Hitech City","Banjara Hills",Bike,Cancelled
+291,"2026-08-26 16:05:00",Miyapur,Gachibowli,Cab,Cancelled
+292,"2026-09-12 16:28:00",Madhapur,Miyapur,Auto,Completed
+293,"2026-08-17 21:12:00",Miyapur,Ameerpet,Bike,Cancelled
+294,"2026-09-20 01:52:00",Kukatpally,"Hitech City",Bike,Cancelled
+295,"2026-08-26 01:00:00",Madhapur,"Jubilee Hills",Bike,Completed
+296,"2026-09-08 00:05:00",Kondapur,Secunderabad,Auto,Completed
+297,"2026-08-19 21:54:00","Banjara Hills",Kondapur,Cab,Completed
+298,"2026-08-17 15:55:00","Banjara Hills",Gachibowli,Cab,Completed
+299,"2026-07-05 05:26:00",Kukatpally,Ameerpet,Cab,Cancelled
+300,"2026-08-16 23:25:00",Madhapur,Kukatpally,Auto,Completed
+301,"2026-07-05 20:06:00","Banjara Hills",Kukatpally,Bike,Completed
+302,"2026-07-12 03:22:00","Jubilee Hills",Secunderabad,Bike,Completed
+303,"2026-09-25 20:42:00",Secunderabad,Gachibowli,Auto,Completed
+304,"2026-09-01 06:18:00",Kukatpally,Gachibowli,Bike,Cancelled
+305,"2026-08-13 03:04:00",Miyapur,Secunderabad,Cab,Completed
+306,"2026-08-29 02:56:00",Kukatpally,"Banjara Hills",Auto,Completed
+307,"2026-09-01 15:13:00","Jubilee Hills","Hitech City",Bike,Completed
+308,"2026-09-20 13:37:00",Ameerpet,Ameerpet,Bike,Completed
+309,"2026-08-10 08:58:00",Kondapur,Kukatpally,Bike,Cancelled
+310,"2026-07-05 02:42:00",Miyapur,Kondapur,Bike,Completed
+311,"2026-09-06 02:03:00",Miyapur,"Banjara Hills",Bike,Completed
+312,"2026-09-27 23:33:00",Kondapur,"Jubilee Hills",Bike,Completed
+313,"2026-08-07 14:13:00",Miyapur,Ameerpet,Bike,Completed
+314,"2026-09-27 23:28:00",Madhapur,Kukatpally,Auto,Completed
+315,"2026-08-07 02:52:00",Miyapur,Miyapur,Bike,Completed
+316,"2026-09-25 01:52:00","Banjara Hills",Ameerpet,Bike,Completed
+317,"2026-08-07 03:25:00",Gachibowli,Kukatpally,Bike,Cancelled
+318,"2026-09-15 07:24:00",Kukatpally,Miyapur,Cab,Completed
+319,"2026-07-23 10:07:00","Jubilee Hills",Kondapur,Auto,Cancelled
+320,"2026-09-07 01:39:00",Gachibowli,Gachibowli,Cab,Completed
+321,"2026-08-28 23:48:00",Miyapur,Kukatpally,Bike,Completed
+322,"2026-07-05 11:35:00","Banjara Hills",Miyapur,Bike,Completed
+323,"2026-08-15 11:25:00",Kondapur,Madhapur,Auto,Completed
+324,"2026-09-24 00:20:00",Ameerpet,"Hitech City",Auto,Completed
+325,"2026-07-25 20:26:00","Hitech City","Hitech City",Bike,Completed
+326,"2026-09-12 07:43:00",Gachibowli,"Jubilee Hills",Cab,Cancelled
+327,"2026-07-11 18:36:00","Jubilee Hills","Hitech City",Cab,Completed
+328,"2026-07-31 03:43:00","Jubilee Hills",Gachibowli,Auto,Completed
+329,"2026-07-16 22:16:00",Secunderabad,Miyapur,Bike,Completed
+330,"2026-08-20 00:23:00",Miyapur,Miyapur,Auto,Completed
+331,"2026-07-27 15:59:00",Miyapur,Gachibowli,Bike,Cancelled
+332,"2026-09-18 21:18:00","Jubilee Hills",Madhapur,Auto,Completed
+333,"2026-07-20 18:17:00",Secunderabad,Gachibowli,Auto,Completed
+334,"2026-07-15 06:22:00",Madhapur,Ameerpet,Auto,Completed
+335,"2026-07-26 23:26:00","Hitech City",Madhapur,Auto,Completed
+336,"2026-07-23 20:15:00",Ameerpet,Kondapur,Cab,Completed
+337,"2026-08-19 07:21:00",Kondapur,Ameerpet,Cab,Cancelled
+338,"2026-09-24 10:23:00","Banjara Hills",Kukatpally,Auto,Completed
+339,"2026-07-26 08:14:00",Ameerpet,Secunderabad,Auto,Completed
+340,"2026-07-24 07:13:00",Gachibowli,Kukatpally,Bike,Completed
+341,"2026-08-26 07:42:00",Kondapur,Miyapur,Cab,Completed
+342,"2026-08-16 18:02:00",Kondapur,Madhapur,Auto,Completed
+343,"2026-07-21 17:19:00",Kondapur,Ameerpet,Auto,Completed
+344,"2026-08-12 18:45:00",Secunderabad,Miyapur,Bike,Cancelled
+345,"2026-09-17 16:57:00",Gachibowli,"Banjara Hills",Bike,Completed
+346,"2026-08-21 05:15:00","Banjara Hills","Hitech City",Auto,Completed
+347,"2026-09-20 23:27:00",Gachibowli,"Hitech City",Auto,Cancelled
+348,"2026-08-05 09:03:00",Kondapur,Miyapur,Cab,Cancelled
+349,"2026-09-26 08:20:00","Hitech City",Ameerpet,Cab,Cancelled
+350,"2026-08-21 06:09:00",Kondapur,"Banjara Hills",Auto,Completed
+351,"2026-09-28 23:43:00",Madhapur,Madhapur,Auto,Completed
+352,"2026-08-19 02:59:00",Miyapur,Kukatpally,Auto,Completed
+353,"2026-09-21 04:18:00",Gachibowli,"Banjara Hills",Auto,Completed
+354,"2026-07-14 07:33:00",Secunderabad,Ameerpet,Cab,Cancelled
+355,"2026-08-15 10:58:00",Kukatpally,"Banjara Hills",Auto,Cancelled
+356,"2026-08-22 12:29:00",Madhapur,Ameerpet,Bike,Completed
+357,"2026-09-13 09:32:00",Miyapur,"Banjara Hills",Cab,Completed
+358,"2026-08-05 23:42:00",Kukatpally,"Hitech City",Bike,Completed
+359,"2026-08-09 21:16:00","Jubilee Hills",Kondapur,Cab,Completed
+360,"2026-09-12 13:37:00",Kukatpally,Gachibowli,Cab,Cancelled
+361,"2026-09-13 09:07:00",Kukatpally,Gachibowli,Cab,Completed
+362,"2026-09-02 08:36:00",Kukatpally,Ameerpet,Auto,Completed
+363,"2026-07-30 22:05:00",Gachibowli,Ameerpet,Bike,Completed
+364,"2026-08-09 12:39:00",Kondapur,Miyapur,Auto,Completed
+365,"2026-08-26 06:23:00",Kondapur,Secunderabad,Cab,Cancelled
+366,"2026-07-07 07:55:00",Kondapur,Miyapur,Bike,Cancelled
+367,"2026-07-19 18:22:00","Jubilee Hills",Ameerpet,Bike,Completed
+368,"2026-08-18 08:57:00",Madhapur,Kukatpally,Cab,Completed
+369,"2026-07-18 16:28:00",Miyapur,Kondapur,Auto,Completed
+370,"2026-08-24 19:58:00",Ameerpet,Ameerpet,Bike,Completed
+371,"2026-08-22 01:30:00",Kukatpally,"Banjara Hills",Bike,Cancelled
+372,"2026-09-10 08:17:00",Secunderabad,"Banjara Hills",Auto,Completed
+373,"2026-08-01 10:46:00",Gachibowli,"Jubilee Hills",Bike,Cancelled
+374,"2026-08-30 02:59:00",Kondapur,Kukatpally,Cab,Completed
+375,"2026-07-03 19:50:00",Kondapur,Miyapur,Auto,Completed
+376,"2026-07-03 13:16:00",Ameerpet,"Banjara Hills",Cab,Completed
+377,"2026-08-11 15:04:00","Jubilee Hills",Secunderabad,Bike,Completed
+378,"2026-08-20 04:12:00","Banjara Hills","Hitech City",Auto,Completed
+379,"2026-07-30 10:23:00",Gachibowli,Gachibowli,Bike,Cancelled
+380,"2026-08-23 20:56:00",Secunderabad,Secunderabad,Auto,Cancelled
+381,"2026-07-19 15:56:00","Jubilee Hills",Miyapur,Auto,Completed
+382,"2026-08-07 05:47:00",Gachibowli,Kukatpally,Auto,Completed
+383,"2026-08-04 01:35:00",Secunderabad,Miyapur,Auto,Cancelled
+384,"2026-08-04 11:57:00",Ameerpet,Gachibowli,Cab,Cancelled
+385,"2026-08-21 10:11:00",Gachibowli,"Banjara Hills",Cab,Cancelled
+386,"2026-07-24 10:55:00","Hitech City",Secunderabad,Bike,Completed
+387,"2026-08-13 04:19:00",Kondapur,"Hitech City",Cab,Completed
+388,"2026-08-13 01:41:00",Miyapur,Madhapur,Bike,Cancelled
+389,"2026-08-13 02:57:00","Hitech City",Secunderabad,Cab,Completed
+390,"2026-08-22 02:48:00",Miyapur,Madhapur,Cab,Completed
+391,"2026-08-27 07:51:00","Jubilee Hills",Kukatpally,Cab,Cancelled
+392,"2026-07-25 00:50:00",Miyapur,Gachibowli,Cab,Cancelled
+393,"2026-07-05 08:17:00",Kukatpally,Kondapur,Bike,Completed
+394,"2026-07-25 19:36:00",Kukatpally,Miyapur,Auto,Completed
+395,"2026-08-28 20:10:00",Secunderabad,Secunderabad,Cab,Completed
+396,"2026-07-24 22:13:00","Banjara Hills",Ameerpet,Bike,Completed
+397,"2026-08-07 01:03:00",Madhapur,Gachibowli,Bike,Completed
+398,"2026-07-12 19:43:00",Ameerpet,"Jubilee Hills",Bike,Completed
+399,"2026-07-21 11:29:00",Madhapur,Madhapur,Auto,Cancelled
+400,"2026-09-06 02:00:00","Banjara Hills","Jubilee Hills",Bike,Completed
+401,"2026-09-06 06:19:00",Gachibowli,Secunderabad,Bike,Completed
+402,"2026-07-25 11:25:00",Kondapur,Miyapur,Cab,Cancelled
+403,"2026-08-18 22:34:00",Secunderabad,Kukatpally,Bike,Completed
+404,"2026-07-10 22:44:00",Miyapur,Kukatpally,Bike,Completed
+405,"2026-08-10 01:41:00",Gachibowli,Kondapur,Bike,Completed
+406,"2026-08-28 03:40:00",Ameerpet,Miyapur,Auto,Completed
+407,"2026-09-03 19:10:00",Miyapur,Ameerpet,Cab,Completed
+408,"2026-07-29 11:00:00",Madhapur,Madhapur,Cab,Cancelled
+409,"2026-07-13 02:24:00","Banjara Hills",Kukatpally,Auto,Completed
+410,"2026-08-23 20:05:00",Miyapur,Gachibowli,Bike,Cancelled
+411,"2026-08-24 21:42:00",Kukatpally,Kukatpally,Bike,Cancelled
+412,"2026-08-10 06:31:00",Miyapur,"Hitech City",Bike,Completed
+413,"2026-09-07 08:24:00",Miyapur,Miyapur,Bike,Completed
+414,"2026-07-12 07:09:00","Hitech City","Banjara Hills",Auto,Completed
+415,"2026-08-24 15:01:00","Jubilee Hills",Miyapur,Cab,Completed
+416,"2026-08-12 18:49:00","Hitech City",Kondapur,Auto,Completed
+417,"2026-09-27 21:02:00",Madhapur,Kondapur,Bike,Completed
+418,"2026-08-26 14:21:00",Miyapur,Secunderabad,Auto,Completed
+419,"2026-08-02 20:11:00",Kondapur,Secunderabad,Cab,Completed
+420,"2026-08-04 22:10:00",Gachibowli,Gachibowli,Auto,Cancelled
+421,"2026-08-28 22:53:00",Madhapur,Kukatpally,Auto,Completed
+422,"2026-07-27 12:15:00","Hitech City",Secunderabad,Auto,Cancelled
+423,"2026-08-20 22:52:00",Secunderabad,Secunderabad,Auto,Completed
+424,"2026-08-07 07:36:00",Madhapur,"Banjara Hills",Bike,Completed
+425,"2026-08-11 22:04:00",Miyapur,"Hitech City",Bike,Completed
+426,"2026-09-22 07:39:00",Miyapur,Kukatpally,Bike,Completed
+427,"2026-08-08 10:57:00",Secunderabad,Kukatpally,Bike,Completed
+428,"2026-08-10 23:57:00",Kondapur,Miyapur,Cab,Cancelled
+429,"2026-09-21 23:47:00",Secunderabad,"Banjara Hills",Auto,Completed
+430,"2026-08-14 01:49:00",Gachibowli,Secunderabad,Auto,Completed
+431,"2026-07-29 11:20:00",Madhapur,"Banjara Hills",Bike,Cancelled
+432,"2026-07-21 19:42:00","Jubilee Hills",Ameerpet,Bike,Completed
+433,"2026-09-28 03:27:00",Kukatpally,Kondapur,Bike,Completed
+434,"2026-09-09 17:59:00","Jubilee Hills",Miyapur,Bike,Cancelled
+435,"2026-09-24 04:10:00",Secunderabad,Madhapur,Bike,Completed
+436,"2026-08-30 16:18:00","Banjara Hills","Hitech City",Auto,Cancelled
+437,"2026-08-12 08:22:00",Ameerpet,"Jubilee Hills",Bike,Completed
+438,"2026-09-26 17:09:00",Miyapur,"Jubilee Hills",Bike,Completed
+439,"2026-09-23 19:39:00",Miyapur,Gachibowli,Bike,Completed
+440,"2026-08-08 09:44:00",Ameerpet,Gachibowli,Auto,Completed
+441,"2026-08-12 03:50:00",Kondapur,Gachibowli,Bike,Completed
+442,"2026-07-28 09:17:00","Jubilee Hills",Madhapur,Cab,Completed
+443,"2026-07-05 19:00:00","Banjara Hills",Kukatpally,Cab,Completed
+444,"2026-09-21 04:46:00",Kondapur,"Jubilee Hills",Bike,Cancelled
+445,"2026-09-02 08:20:00",Kukatpally,Kukatpally,Cab,Completed
+446,"2026-09-08 04:30:00","Hitech City",Kukatpally,Bike,Completed
+447,"2026-09-24 16:43:00",Kondapur,"Banjara Hills",Bike,Completed
+448,"2026-07-19 21:39:00",Gachibowli,Kukatpally,Bike,Completed
+449,"2026-07-30 21:01:00",Ameerpet,"Banjara Hills",Cab,Completed
+450,"2026-07-11 13:20:00","Banjara Hills",Kukatpally,Bike,Completed
+451,"2026-09-05 04:57:00",Kukatpally,Kukatpally,Cab,Completed
+452,"2026-09-18 02:46:00",Madhapur,"Hitech City",Auto,Completed
+453,"2026-07-01 17:26:00",Madhapur,Kondapur,Cab,Completed
+454,"2026-08-02 23:58:00",Ameerpet,Ameerpet,Bike,Completed
+455,"2026-08-12 05:11:00","Hitech City",Miyapur,Auto,Completed
+456,"2026-07-12 16:46:00","Banjara Hills",Gachibowli,Auto,Cancelled
+457,"2026-08-05 09:28:00","Hitech City",Kukatpally,Auto,Completed
+458,"2026-08-13 23:05:00",Gachibowli,Kondapur,Auto,Cancelled
+459,"2026-09-11 11:35:00",Kukatpally,Gachibowli,Bike,Completed
+460,"2026-09-21 13:48:00",Miyapur,Miyapur,Bike,Completed
+461,"2026-07-01 23:11:00",Madhapur,Miyapur,Auto,Cancelled
+462,"2026-08-12 18:07:00",Ameerpet,Madhapur,Cab,Cancelled
+463,"2026-07-29 13:00:00",Kondapur,"Jubilee Hills",Bike,Cancelled
+464,"2026-09-01 08:54:00",Ameerpet,Kondapur,Auto,Completed
+465,"2026-08-03 19:01:00",Madhapur,Kukatpally,Bike,Completed
+466,"2026-08-19 18:14:00","Banjara Hills",Secunderabad,Auto,Cancelled
+467,"2026-07-16 12:11:00",Kondapur,Madhapur,Auto,Completed
+468,"2026-07-09 00:26:00",Madhapur,"Jubilee Hills",Cab,Completed
+469,"2026-07-14 22:45:00",Gachibowli,"Banjara Hills",Bike,Cancelled
+470,"2026-09-08 10:09:00",Kondapur,"Hitech City",Auto,Cancelled
+471,"2026-07-21 10:48:00","Hitech City",Miyapur,Cab,Completed
+472,"2026-08-11 09:21:00",Kondapur,Ameerpet,Cab,Completed
+473,"2026-09-19 01:34:00",Gachibowli,"Hitech City",Bike,Cancelled
+474,"2026-07-19 00:53:00",Gachibowli,Madhapur,Auto,Completed
+475,"2026-09-01 21:33:00","Banjara Hills",Secunderabad,Cab,Completed
+476,"2026-08-15 17:10:00","Jubilee Hills",Gachibowli,Bike,Completed
+477,"2026-09-02 09:36:00","Hitech City",Gachibowli,Bike,Completed
+478,"2026-09-21 18:56:00","Hitech City",Ameerpet,Cab,Completed
+479,"2026-07-17 13:49:00",Madhapur,Gachibowli,Cab,Completed
+480,"2026-09-14 14:35:00","Banjara Hills",Ameerpet,Auto,Cancelled
+481,"2026-08-28 02:57:00",Gachibowli,Madhapur,Auto,Cancelled
+482,"2026-08-27 05:42:00","Jubilee Hills",Gachibowli,Cab,Cancelled
+483,"2026-07-16 21:56:00",Kondapur,Gachibowli,Bike,Completed
+484,"2026-07-31 01:06:00",Ameerpet,Miyapur,Bike,Completed
+485,"2026-09-04 00:51:00",Gachibowli,"Hitech City",Cab,Completed
+486,"2026-07-22 17:16:00",Madhapur,"Jubilee Hills",Bike,Completed
+487,"2026-09-26 08:31:00",Secunderabad,Kondapur,Cab,Cancelled
+488,"2026-08-09 01:02:00",Madhapur,"Banjara Hills",Cab,Completed
+489,"2026-09-01 14:14:00",Ameerpet,Miyapur,Auto,Completed
+490,"2026-08-28 07:34:00",Gachibowli,Miyapur,Auto,Cancelled
+491,"2026-09-23 05:16:00",Secunderabad,Gachibowli,Bike,Completed
+492,"2026-08-21 01:32:00",Kondapur,Secunderabad,Cab,Cancelled
+493,"2026-07-12 07:47:00","Hitech City",Secunderabad,Bike,Cancelled
+494,"2026-08-20 02:53:00",Kondapur,Secunderabad,Cab,Completed
+495,"2026-08-11 19:57:00","Jubilee Hills","Banjara Hills",Bike,Completed
+496,"2026-09-26 15:40:00",Kukatpally,Madhapur,Bike,Completed
+497,"2026-07-24 11:05:00",Madhapur,"Banjara Hills",Bike,Cancelled
+498,"2026-08-23 05:59:00",Kondapur,Kukatpally,Auto,Completed
+499,"2026-08-04 00:20:00",Kondapur,Kondapur,Cab,Completed
+500,"2026-08-20 12:18:00",Kukatpally,"Jubilee Hills",Bike,Cancelled
+501,"2026-07-24 19:18:00",Kukatpally,Kondapur,Cab,Completed
+502,"2026-09-10 16:25:00",Kondapur,Madhapur,Cab,Completed
+503,"2026-08-24 17:50:00",Kondapur,"Banjara Hills",Bike,Completed
+504,"2026-07-16 16:08:00","Banjara Hills","Hitech City",Auto,Completed
+505,"2026-07-15 00:47:00",Miyapur,Kukatpally,Bike,Completed
+506,"2026-09-02 23:46:00",Ameerpet,"Hitech City",Cab,Completed
+507,"2026-09-18 08:44:00",Ameerpet,Secunderabad,Bike,Completed
+508,"2026-07-21 15:52:00",Gachibowli,"Banjara Hills",Cab,Completed
+509,"2026-07-15 04:50:00","Hitech City","Banjara Hills",Cab,Cancelled
+510,"2026-08-26 02:52:00",Secunderabad,"Hitech City",Cab,Completed
+511,"2026-09-27 12:04:00",Kondapur,"Hitech City",Cab,Completed
+512,"2026-08-05 07:25:00","Hitech City","Banjara Hills",Auto,Completed
+513,"2026-09-07 13:29:00",Kondapur,Kukatpally,Auto,Completed
+514,"2026-07-13 18:04:00",Miyapur,Kukatpally,Cab,Cancelled
+515,"2026-07-10 02:07:00",Kukatpally,"Banjara Hills",Bike,Completed
+516,"2026-09-02 21:12:00",Miyapur,"Jubilee Hills",Cab,Completed
+517,"2026-08-08 00:10:00","Banjara Hills",Kondapur,Cab,Completed
+518,"2026-07-11 01:01:00",Miyapur,Kondapur,Auto,Completed
+519,"2026-07-17 23:29:00",Kondapur,Kondapur,Cab,Cancelled
+520,"2026-09-09 06:15:00",Kukatpally,"Banjara Hills",Bike,Completed
+521,"2026-09-12 23:45:00",Secunderabad,Kondapur,Cab,Completed
+522,"2026-08-17 13:57:00",Ameerpet,Ameerpet,Auto,Completed
+523,"2026-09-21 15:46:00","Banjara Hills",Secunderabad,Bike,Completed
+524,"2026-07-28 04:32:00","Hitech City",Miyapur,Cab,Completed
+525,"2026-08-04 06:02:00",Gachibowli,Gachibowli,Auto,Completed
+526,"2026-09-20 23:24:00",Ameerpet,Madhapur,Auto,Completed
+527,"2026-07-24 04:04:00",Madhapur,Gachibowli,Bike,Completed
+528,"2026-09-04 01:31:00",Kukatpally,Secunderabad,Bike,Cancelled
+529,"2026-08-21 16:42:00","Hitech City",Kukatpally,Auto,Completed
+530,"2026-07-11 01:26:00","Hitech City","Jubilee Hills",Bike,Cancelled
+531,"2026-07-07 10:16:00","Hitech City",Secunderabad,Auto,Completed
+532,"2026-07-02 08:11:00",Gachibowli,Ameerpet,Bike,Completed
+533,"2026-07-21 18:36:00",Madhapur,Gachibowli,Cab,Completed
+534,"2026-08-20 13:58:00",Kukatpally,"Hitech City",Cab,Completed
+535,"2026-07-01 02:56:00",Miyapur,Kondapur,Auto,Cancelled
+536,"2026-08-16 22:47:00","Banjara Hills","Hitech City",Cab,Cancelled
+537,"2026-07-06 00:08:00",Kukatpally,Kukatpally,Auto,Completed
+538,"2026-08-22 12:28:00",Kukatpally,"Banjara Hills",Bike,Completed
+539,"2026-08-18 00:25:00",Miyapur,"Hitech City",Auto,Completed
+540,"2026-08-21 14:51:00","Jubilee Hills",Kondapur,Auto,Completed
+541,"2026-07-24 13:07:00",Gachibowli,"Banjara Hills",Auto,Completed
+542,"2026-07-28 17:09:00",Miyapur,Ameerpet,Bike,Completed
+543,"2026-08-20 06:31:00","Hitech City",Secunderabad,Auto,Cancelled
+544,"2026-07-01 17:11:00","Hitech City",Miyapur,Auto,Completed
+545,"2026-07-02 03:42:00",Ameerpet,"Banjara Hills",Auto,Cancelled
+546,"2026-08-26 21:31:00",Secunderabad,Gachibowli,Cab,Completed
+547,"2026-09-18 12:52:00","Hitech City","Banjara Hills",Auto,Completed
+548,"2026-07-28 16:33:00",Gachibowli,Miyapur,Cab,Completed
+549,"2026-08-14 23:05:00","Hitech City",Ameerpet,Bike,Cancelled
+550,"2026-09-18 02:31:00",Miyapur,Kukatpally,Cab,Cancelled
+551,"2026-09-13 05:33:00",Miyapur,Gachibowli,Cab,Completed
+552,"2026-09-12 03:14:00",Ameerpet,"Banjara Hills",Auto,Cancelled
+553,"2026-08-12 03:48:00","Jubilee Hills",Gachibowli,Auto,Cancelled
+554,"2026-07-02 19:29:00",Madhapur,"Banjara Hills",Auto,Cancelled
+555,"2026-09-14 13:10:00",Gachibowli,Ameerpet,Auto,Completed
+556,"2026-09-15 14:27:00",Madhapur,"Hitech City",Bike,Cancelled
+557,"2026-08-20 18:57:00",Miyapur,"Jubilee Hills",Bike,Completed
+558,"2026-08-31 04:26:00","Hitech City",Ameerpet,Auto,Completed
+559,"2026-09-23 04:21:00","Jubilee Hills","Banjara Hills",Cab,Completed
+560,"2026-08-13 18:30:00","Hitech City","Jubilee Hills",Bike,Completed
+561,"2026-08-02 17:15:00",Ameerpet,Gachibowli,Auto,Completed
+562,"2026-08-03 10:17:00",Ameerpet,"Jubilee Hills",Bike,Completed
+563,"2026-09-04 05:20:00",Madhapur,Gachibowli,Cab,Completed
+564,"2026-08-16 08:57:00",Miyapur,Gachibowli,Auto,Completed
+565,"2026-07-18 13:46:00",Madhapur,"Jubilee Hills",Bike,Completed
+566,"2026-07-14 10:45:00",Kukatpally,Gachibowli,Bike,Completed
+567,"2026-08-04 12:45:00",Kukatpally,"Hitech City",Auto,Completed
+568,"2026-07-13 15:50:00","Hitech City",Gachibowli,Auto,Completed
+569,"2026-09-26 00:06:00",Madhapur,Ameerpet,Cab,Completed
+570,"2026-08-21 05:41:00",Ameerpet,Gachibowli,Cab,Cancelled
+571,"2026-08-23 06:40:00","Hitech City",Kondapur,Auto,Completed
+572,"2026-09-01 01:27:00","Hitech City","Hitech City",Auto,Completed
+573,"2026-07-26 07:26:00",Secunderabad,Madhapur,Bike,Cancelled
+574,"2026-08-20 12:03:00",Madhapur,Gachibowli,Bike,Cancelled
+575,"2026-09-22 00:28:00",Kukatpally,Secunderabad,Cab,Completed
+576,"2026-08-15 23:49:00",Madhapur,"Hitech City",Cab,Cancelled
+577,"2026-09-12 07:02:00",Kondapur,Kondapur,Cab,Completed
+578,"2026-08-21 07:32:00",Kukatpally,Madhapur,Bike,Completed
+579,"2026-08-14 02:00:00","Hitech City",Kukatpally,Bike,Completed
+580,"2026-09-25 18:40:00",Secunderabad,Gachibowli,Bike,Completed
+581,"2026-07-30 05:38:00",Gachibowli,Kondapur,Auto,Completed
+582,"2026-08-26 18:45:00",Madhapur,Miyapur,Bike,Completed
+583,"2026-09-18 04:18:00","Jubilee Hills",Madhapur,Bike,Completed
+584,"2026-07-19 13:17:00",Madhapur,Ameerpet,Cab,Completed
+585,"2026-09-15 02:57:00",Ameerpet,Madhapur,Auto,Cancelled
+586,"2026-07-15 21:41:00","Hitech City",Secunderabad,Auto,Cancelled
+587,"2026-09-10 19:04:00",Gachibowli,Kondapur,Auto,Cancelled
+588,"2026-08-22 22:28:00",Kondapur,Gachibowli,Bike,Completed
+589,"2026-08-12 18:11:00",Kondapur,Kukatpally,Auto,Completed
+590,"2026-09-13 12:51:00","Banjara Hills",Kukatpally,Bike,Completed
+591,"2026-09-10 08:47:00","Banjara Hills",Miyapur,Auto,Completed
+592,"2026-08-09 22:26:00",Secunderabad,"Jubilee Hills",Cab,Completed
+593,"2026-08-02 10:05:00","Jubilee Hills","Jubilee Hills",Bike,Completed
+594,"2026-09-11 20:34:00","Banjara Hills","Hitech City",Cab,Cancelled
+595,"2026-09-20 00:22:00","Hitech City",Ameerpet,Cab,Completed
+596,"2026-07-17 19:20:00","Jubilee Hills",Madhapur,Auto,Completed
+597,"2026-09-09 01:11:00",Madhapur,Gachibowli,Bike,Completed
+598,"2026-09-14 00:47:00",Kondapur,Kondapur,Cab,Completed
+599,"2026-07-19 22:52:00","Hitech City",Gachibowli,Cab,Cancelled
+600,"2026-09-21 17:08:00",Madhapur,"Jubilee Hills",Bike,Completed
+601,"2026-07-18 15:53:00","Jubilee Hills",Madhapur,Cab,Cancelled
+602,"2026-08-02 15:04:00","Hitech City","Hitech City",Cab,Cancelled
+603,"2026-09-15 16:14:00",Secunderabad,"Hitech City",Bike,Cancelled
+604,"2026-07-08 02:12:00",Gachibowli,Kukatpally,Bike,Completed
+605,"2026-08-04 08:33:00",Gachibowli,Secunderabad,Bike,Completed
+606,"2026-09-16 18:50:00",Madhapur,"Banjara Hills",Auto,Completed
+607,"2026-08-16 06:05:00",Kukatpally,Kondapur,Bike,Completed
+608,"2026-09-24 15:22:00",Miyapur,Madhapur,Auto,Cancelled
+609,"2026-08-20 11:29:00",Gachibowli,Ameerpet,Cab,Completed
+610,"2026-09-25 15:18:00",Kukatpally,"Banjara Hills",Cab,Cancelled
+611,"2026-09-23 12:41:00",Miyapur,Kondapur,Cab,Completed
+612,"2026-07-23 04:57:00",Ameerpet,"Banjara Hills",Bike,Cancelled
+613,"2026-07-15 19:09:00",Miyapur,Miyapur,Cab,Cancelled
+614,"2026-08-26 00:35:00",Kukatpally,Madhapur,Bike,Completed
+615,"2026-07-23 07:07:00","Banjara Hills",Kondapur,Bike,Completed
+616,"2026-09-24 19:16:00",Ameerpet,Gachibowli,Auto,Completed
+617,"2026-09-08 18:42:00",Kondapur,Ameerpet,Auto,Completed
+618,"2026-07-17 08:58:00","Jubilee Hills",Kukatpally,Bike,Completed
+619,"2026-08-04 08:25:00",Secunderabad,Secunderabad,Bike,Completed
+620,"2026-07-06 11:26:00","Jubilee Hills",Gachibowli,Bike,Completed
+621,"2026-09-10 02:07:00","Jubilee Hills",Secunderabad,Auto,Cancelled
+622,"2026-09-06 15:15:00",Kukatpally,"Hitech City",Bike,Completed
+623,"2026-09-15 23:06:00",Gachibowli,Secunderabad,Bike,Completed
+624,"2026-08-02 04:50:00","Banjara Hills",Gachibowli,Auto,Cancelled
+625,"2026-09-09 02:01:00","Hitech City","Banjara Hills",Cab,Completed
+626,"2026-07-11 03:49:00",Miyapur,Madhapur,Cab,Completed
+627,"2026-07-10 07:43:00",Kondapur,Kukatpally,Auto,Completed
+628,"2026-09-24 03:18:00","Hitech City","Jubilee Hills",Auto,Completed
+629,"2026-07-22 06:55:00","Jubilee Hills","Banjara Hills",Cab,Completed
+630,"2026-07-02 02:02:00","Banjara Hills","Hitech City",Auto,Cancelled
+631,"2026-08-16 15:26:00","Banjara Hills",Kondapur,Cab,Completed
+632,"2026-08-24 14:30:00","Banjara Hills","Jubilee Hills",Cab,Completed
+633,"2026-08-17 14:30:00",Kondapur,"Hitech City",Auto,Completed
+634,"2026-09-04 11:35:00",Secunderabad,"Banjara Hills",Auto,Cancelled
+635,"2026-08-16 08:59:00","Jubilee Hills",Secunderabad,Auto,Completed
+636,"2026-09-17 16:51:00",Madhapur,"Banjara Hills",Auto,Completed
+637,"2026-07-10 16:02:00","Hitech City",Secunderabad,Bike,Cancelled
+638,"2026-08-04 22:31:00","Jubilee Hills",Miyapur,Cab,Cancelled
+639,"2026-07-02 03:38:00",Madhapur,Kondapur,Bike,Cancelled
+640,"2026-08-22 06:22:00","Hitech City",Gachibowli,Cab,Completed
+641,"2026-08-09 20:33:00",Ameerpet,Miyapur,Bike,Cancelled
+642,"2026-08-16 15:47:00",Ameerpet,Madhapur,Auto,Completed
+643,"2026-08-25 22:13:00",Ameerpet,Ameerpet,Bike,Cancelled
+644,"2026-07-12 22:43:00",Secunderabad,Kukatpally,Cab,Cancelled
+645,"2026-07-25 15:24:00",Kondapur,Kukatpally,Auto,Completed
+646,"2026-09-23 11:15:00",Miyapur,"Jubilee Hills",Auto,Completed
+647,"2026-08-28 04:28:00","Jubilee Hills","Jubilee Hills",Bike,Completed
+648,"2026-07-12 17:52:00",Gachibowli,Gachibowli,Bike,Completed
+649,"2026-09-02 03:14:00",Ameerpet,Secunderabad,Cab,Completed
+650,"2026-08-13 12:44:00","Hitech City",Gachibowli,Auto,Completed
+651,"2026-07-28 10:58:00",Miyapur,Madhapur,Auto,Completed
+652,"2026-07-10 01:26:00",Kondapur,Secunderabad,Bike,Cancelled
+653,"2026-07-12 01:07:00",Miyapur,Secunderabad,Bike,Completed
+654,"2026-07-24 04:06:00","Jubilee Hills",Kondapur,Cab,Completed
+655,"2026-08-13 02:34:00",Kukatpally,"Jubilee Hills",Cab,Cancelled
+656,"2026-07-15 06:48:00",Kukatpally,Ameerpet,Auto,Completed
+657,"2026-08-26 07:31:00",Secunderabad,Ameerpet,Cab,Completed
+658,"2026-08-17 22:16:00",Kondapur,"Hitech City",Auto,Completed
+659,"2026-07-19 22:22:00",Miyapur,Gachibowli,Auto,Completed
+660,"2026-08-12 21:55:00",Gachibowli,Miyapur,Auto,Completed
+661,"2026-09-11 09:31:00",Kondapur,Gachibowli,Auto,Completed
+662,"2026-09-24 05:16:00",Secunderabad,"Jubilee Hills",Bike,Completed
+663,"2026-07-20 09:39:00",Secunderabad,"Hitech City",Cab,Completed
+664,"2026-08-21 14:52:00","Hitech City","Banjara Hills",Auto,Completed
+665,"2026-07-29 12:39:00",Kondapur,"Banjara Hills",Cab,Completed
+666,"2026-07-25 08:32:00",Miyapur,Gachibowli,Cab,Completed
+667,"2026-07-22 00:23:00",Miyapur,Kondapur,Cab,Completed
+668,"2026-09-10 16:18:00",Gachibowli,Ameerpet,Auto,Completed
+669,"2026-07-12 19:42:00",Kondapur,Miyapur,Bike,Completed
+670,"2026-08-28 22:31:00",Gachibowli,"Jubilee Hills",Bike,Completed
+671,"2026-09-05 22:21:00",Miyapur,Miyapur,Bike,Completed
+672,"2026-07-09 17:37:00",Gachibowli,"Hitech City",Bike,Cancelled
+673,"2026-09-20 18:13:00","Jubilee Hills",Kondapur,Cab,Cancelled
+674,"2026-09-15 05:13:00",Miyapur,"Banjara Hills",Auto,Completed
+675,"2026-09-12 20:58:00",Secunderabad,Madhapur,Bike,Completed
+676,"2026-07-06 04:48:00",Gachibowli,Secunderabad,Auto,Completed
+677,"2026-09-28 11:45:00",Kukatpally,Miyapur,Auto,Completed
+678,"2026-08-22 08:45:00",Kondapur,Madhapur,Bike,Completed
+679,"2026-08-01 10:37:00",Miyapur,Ameerpet,Cab,Cancelled
+680,"2026-09-10 13:26:00",Gachibowli,Kondapur,Bike,Completed
+681,"2026-08-04 23:52:00",Kukatpally,"Banjara Hills",Cab,Completed
+682,"2026-08-22 09:11:00",Miyapur,Secunderabad,Cab,Completed
+683,"2026-08-26 06:17:00",Secunderabad,Secunderabad,Bike,Completed
+684,"2026-09-27 17:34:00",Kukatpally,"Banjara Hills",Auto,Completed
+685,"2026-08-05 00:57:00",Miyapur,Gachibowli,Bike,Cancelled
+686,"2026-07-27 05:31:00",Madhapur,Ameerpet,Cab,Cancelled
+687,"2026-08-07 06:14:00",Gachibowli,Kondapur,Auto,Completed
+688,"2026-07-14 07:53:00",Kukatpally,Ameerpet,Auto,Completed
+689,"2026-07-28 20:10:00",Kukatpally,Miyapur,Auto,Completed
+690,"2026-08-29 06:19:00","Jubilee Hills",Gachibowli,Bike,Cancelled
+691,"2026-07-25 08:31:00",Gachibowli,Kukatpally,Auto,Completed
+692,"2026-07-08 21:30:00","Banjara Hills",Kukatpally,Cab,Completed
+693,"2026-08-28 08:35:00",Madhapur,"Jubilee Hills",Auto,Completed
+694,"2026-09-21 11:47:00",Gachibowli,Kondapur,Cab,Cancelled
+695,"2026-09-12 02:34:00",Kukatpally,Kukatpally,Auto,Completed
+696,"2026-08-31 21:40:00",Kukatpally,Gachibowli,Cab,Cancelled
+697,"2026-07-23 11:36:00",Secunderabad,Ameerpet,Bike,Cancelled
+698,"2026-07-04 06:10:00",Miyapur,Ameerpet,Cab,Cancelled
+699,"2026-09-16 15:07:00","Jubilee Hills",Secunderabad,Cab,Cancelled
+700,"2026-09-12 14:02:00","Hitech City",Madhapur,Bike,Cancelled
+701,"2026-08-31 09:08:00","Banjara Hills",Kukatpally,Auto,Completed
+702,"2026-09-16 13:56:00","Banjara Hills","Hitech City",Bike,Cancelled
+703,"2026-09-24 17:32:00",Kondapur,Gachibowli,Cab,Completed
+704,"2026-08-09 00:11:00",Miyapur,Miyapur,Bike,Cancelled
+705,"2026-09-11 09:30:00",Kukatpally,Ameerpet,Cab,Cancelled
+706,"2026-07-11 23:04:00",Gachibowli,Gachibowli,Auto,Completed
+707,"2026-09-23 05:46:00","Jubilee Hills",Miyapur,Cab,Cancelled
+708,"2026-07-27 13:36:00","Banjara Hills","Jubilee Hills",Bike,Cancelled
+709,"2026-09-13 21:36:00","Banjara Hills",Gachibowli,Cab,Completed
+710,"2026-08-04 04:32:00","Jubilee Hills","Jubilee Hills",Bike,Cancelled
+711,"2026-07-31 05:46:00",Secunderabad,Madhapur,Auto,Completed
+712,"2026-07-16 01:07:00",Kondapur,"Jubilee Hills",Auto,Completed
+713,"2026-07-26 19:12:00","Banjara Hills","Hitech City",Cab,Completed
+714,"2026-07-24 08:47:00","Banjara Hills","Banjara Hills",Bike,Completed
+715,"2026-07-09 15:13:00",Secunderabad,"Hitech City",Bike,Completed
+716,"2026-09-16 17:02:00","Jubilee Hills",Gachibowli,Cab,Cancelled
+717,"2026-07-21 10:59:00","Jubilee Hills",Gachibowli,Cab,Completed
+718,"2026-08-03 10:07:00","Banjara Hills",Ameerpet,Bike,Completed
+719,"2026-08-27 11:36:00",Kukatpally,"Hitech City",Bike,Cancelled
+720,"2026-09-10 19:40:00",Madhapur,Kukatpally,Cab,Completed
+721,"2026-07-06 03:16:00","Jubilee Hills","Banjara Hills",Auto,Cancelled
+722,"2026-09-28 13:38:00",Kondapur,Gachibowli,Auto,Completed
+723,"2026-09-24 12:32:00","Hitech City",Miyapur,Bike,Cancelled
+724,"2026-07-03 16:25:00",Miyapur,Miyapur,Auto,Completed
+725,"2026-08-19 19:30:00","Banjara Hills",Gachibowli,Auto,Completed
+726,"2026-07-02 19:33:00",Miyapur,Secunderabad,Bike,Completed
+727,"2026-07-18 04:56:00",Kukatpally,Kukatpally,Cab,Cancelled
+728,"2026-08-19 09:21:00",Miyapur,"Banjara Hills",Auto,Completed
+729,"2026-07-27 02:25:00",Kukatpally,"Banjara Hills",Cab,Completed
+730,"2026-08-20 07:25:00",Secunderabad,"Banjara Hills",Auto,Cancelled
+731,"2026-07-10 20:44:00","Jubilee Hills",Kukatpally,Auto,Completed
+732,"2026-07-17 09:56:00",Gachibowli,Kondapur,Auto,Completed
+733,"2026-08-14 02:41:00","Jubilee Hills","Jubilee Hills",Bike,Completed
+734,"2026-08-13 06:38:00",Miyapur,"Hitech City",Cab,Cancelled
+735,"2026-07-25 03:55:00","Banjara Hills",Gachibowli,Bike,Completed
+736,"2026-08-29 19:19:00",Kondapur,Ameerpet,Bike,Completed
+737,"2026-08-07 18:17:00",Secunderabad,Madhapur,Bike,Completed
+738,"2026-08-15 12:51:00","Banjara Hills",Gachibowli,Auto,Completed
+739,"2026-08-08 09:34:00","Hitech City",Madhapur,Auto,Completed
+740,"2026-07-22 23:43:00",Ameerpet,"Hitech City",Bike,Completed
+741,"2026-09-27 00:53:00","Jubilee Hills","Jubilee Hills",Bike,Completed
+742,"2026-07-22 13:33:00",Ameerpet,"Banjara Hills",Auto,Completed
+743,"2026-07-09 13:22:00","Banjara Hills",Kondapur,Cab,Completed
+744,"2026-08-12 07:41:00",Gachibowli,"Banjara Hills",Cab,Completed
+745,"2026-09-19 19:24:00","Banjara Hills",Miyapur,Cab,Completed
+746,"2026-07-01 04:21:00",Miyapur,Gachibowli,Cab,Completed
+747,"2026-08-03 21:35:00","Hitech City",Ameerpet,Auto,Completed
+748,"2026-08-08 14:47:00",Madhapur,Secunderabad,Auto,Completed
+749,"2026-08-28 10:16:00",Gachibowli,"Banjara Hills",Auto,Completed
+750,"2026-07-17 20:32:00","Banjara Hills",Madhapur,Auto,Cancelled
+751,"2026-07-03 05:10:00","Hitech City","Jubilee Hills",Bike,Completed
+752,"2026-07-28 14:17:00",Secunderabad,Madhapur,Bike,Completed
+753,"2026-07-10 22:40:00",Gachibowli,"Hitech City",Cab,Completed
+754,"2026-09-06 01:38:00","Banjara Hills",Madhapur,Bike,Completed
+755,"2026-08-17 14:27:00",Kukatpally,Secunderabad,Bike,Completed
+756,"2026-07-31 02:04:00",Madhapur,Kondapur,Cab,Completed
+757,"2026-09-07 18:54:00",Kondapur,Kondapur,Cab,Completed
+758,"2026-09-03 23:48:00","Banjara Hills",Madhapur,Bike,Completed
+759,"2026-07-23 08:36:00","Hitech City",Miyapur,Bike,Cancelled
+760,"2026-07-01 10:03:00",Gachibowli,"Jubilee Hills",Bike,Completed
+761,"2026-09-08 09:11:00","Jubilee Hills",Ameerpet,Cab,Completed
+762,"2026-09-09 05:07:00",Gachibowli,Kukatpally,Auto,Completed
+763,"2026-07-09 04:31:00",Ameerpet,Madhapur,Cab,Completed
+764,"2026-07-27 07:53:00",Miyapur,Gachibowli,Cab,Cancelled
+765,"2026-07-28 01:20:00",Ameerpet,Secunderabad,Cab,Completed
+766,"2026-07-05 21:52:00","Hitech City","Hitech City",Auto,Cancelled
+767,"2026-08-26 12:09:00",Miyapur,"Banjara Hills",Cab,Completed
+768,"2026-08-10 18:41:00",Madhapur,"Banjara Hills",Auto,Cancelled
+769,"2026-07-28 08:27:00",Miyapur,Madhapur,Bike,Completed
+770,"2026-08-09 00:33:00",Miyapur,Kondapur,Auto,Cancelled
+771,"2026-07-16 10:57:00","Banjara Hills",Kondapur,Auto,Completed
+772,"2026-07-09 20:33:00",Madhapur,"Banjara Hills",Bike,Completed
+773,"2026-08-02 16:12:00",Gachibowli,Miyapur,Auto,Completed
+774,"2026-08-20 04:09:00",Miyapur,Kondapur,Bike,Cancelled
+775,"2026-07-11 17:54:00",Miyapur,"Jubilee Hills",Auto,Cancelled
+776,"2026-07-06 22:24:00",Ameerpet,Ameerpet,Cab,Cancelled
+777,"2026-07-02 11:18:00",Kukatpally,"Hitech City",Auto,Completed
+778,"2026-07-14 23:01:00","Banjara Hills","Hitech City",Bike,Completed
+779,"2026-08-24 21:44:00",Madhapur,Madhapur,Cab,Cancelled
+780,"2026-08-09 10:32:00",Ameerpet,Secunderabad,Auto,Completed
+781,"2026-08-19 15:28:00",Secunderabad,"Banjara Hills",Auto,Cancelled
+782,"2026-09-05 04:41:00",Gachibowli,"Hitech City",Cab,Completed
+783,"2026-08-25 18:53:00",Madhapur,Ameerpet,Auto,Completed
+784,"2026-07-19 08:08:00","Jubilee Hills",Miyapur,Cab,Completed
+785,"2026-08-24 10:10:00",Kondapur,Kondapur,Auto,Completed
+786,"2026-08-03 12:56:00","Jubilee Hills","Hitech City",Cab,Completed
+787,"2026-07-26 10:27:00","Jubilee Hills","Hitech City",Auto,Completed
+788,"2026-07-10 04:06:00",Madhapur,Madhapur,Bike,Completed
+789,"2026-08-20 04:53:00","Jubilee Hills",Gachibowli,Bike,Cancelled
+790,"2026-09-12 01:12:00","Jubilee Hills",Ameerpet,Bike,Completed
+791,"2026-08-24 00:09:00",Madhapur,Ameerpet,Cab,Completed
+792,"2026-08-11 11:19:00",Secunderabad,"Banjara Hills",Cab,Cancelled
+793,"2026-09-28 03:00:00",Ameerpet,Secunderabad,Cab,Completed
+794,"2026-08-19 17:31:00",Kukatpally,Secunderabad,Auto,Completed
+795,"2026-09-10 06:07:00",Miyapur,"Jubilee Hills",Auto,Completed
+796,"2026-09-06 21:29:00","Banjara Hills",Miyapur,Bike,Completed
+797,"2026-09-03 01:46:00","Jubilee Hills",Kondapur,Auto,Completed
+798,"2026-07-02 23:11:00",Secunderabad,Ameerpet,Cab,Completed
+799,"2026-08-05 10:42:00",Secunderabad,Kukatpally,Bike,Completed
+800,"2026-07-23 04:50:00","Banjara Hills","Hitech City",Cab,Completed
+801,"2026-07-08 07:11:00",Miyapur,Ameerpet,Bike,Completed
+802,"2026-07-24 04:45:00",Secunderabad,"Banjara Hills",Bike,Completed
+803,"2026-08-12 20:30:00",Madhapur,Kondapur,Cab,Completed
+804,"2026-09-05 11:42:00",Ameerpet,Kukatpally,Auto,Completed
+805,"2026-07-07 13:17:00","Jubilee Hills","Banjara Hills",Auto,Completed
+806,"2026-08-07 23:28:00",Secunderabad,Gachibowli,Auto,Completed
+807,"2026-08-27 18:43:00",Gachibowli,Madhapur,Bike,Completed
+808,"2026-08-24 07:20:00","Hitech City",Ameerpet,Cab,Completed
+809,"2026-09-07 05:18:00","Jubilee Hills",Kondapur,Bike,Cancelled
+810,"2026-09-13 08:56:00",Miyapur,"Hitech City",Auto,Completed
+811,"2026-08-04 18:28:00",Miyapur,Gachibowli,Cab,Completed
+812,"2026-08-29 21:13:00",Ameerpet,Kukatpally,Auto,Cancelled
+813,"2026-08-09 04:22:00",Kondapur,Madhapur,Cab,Completed
+814,"2026-07-20 01:25:00",Madhapur,Kukatpally,Cab,Cancelled
+815,"2026-08-11 00:32:00",Ameerpet,"Banjara Hills",Auto,Completed
+816,"2026-08-12 17:47:00",Gachibowli,Madhapur,Cab,Completed
+817,"2026-08-09 16:20:00",Ameerpet,Miyapur,Bike,Cancelled
+818,"2026-07-11 05:43:00",Secunderabad,"Banjara Hills",Auto,Completed
+819,"2026-07-08 22:59:00",Kukatpally,Gachibowli,Auto,Completed
+820,"2026-08-23 04:56:00",Ameerpet,Gachibowli,Bike,Cancelled
+821,"2026-07-10 06:24:00",Gachibowli,"Jubilee Hills",Auto,Cancelled
+822,"2026-08-25 14:40:00",Ameerpet,Madhapur,Bike,Completed
+823,"2026-09-22 19:46:00",Kukatpally,"Banjara Hills",Auto,Cancelled
+824,"2026-09-21 10:04:00","Banjara Hills",Secunderabad,Bike,Completed
+825,"2026-08-02 11:07:00",Gachibowli,Madhapur,Cab,Completed
+826,"2026-09-27 18:28:00",Madhapur,Kondapur,Auto,Completed
+827,"2026-07-29 06:36:00","Jubilee Hills",Secunderabad,Bike,Completed
+828,"2026-09-18 18:42:00",Gachibowli,Madhapur,Bike,Completed
+829,"2026-08-07 21:33:00",Ameerpet,Gachibowli,Bike,Completed
+830,"2026-09-05 22:38:00",Secunderabad,Miyapur,Cab,Cancelled
+831,"2026-07-18 01:20:00",Kukatpally,"Banjara Hills",Auto,Cancelled
+832,"2026-09-12 13:06:00",Kukatpally,Kondapur,Bike,Cancelled
+833,"2026-08-19 07:28:00",Secunderabad,Kondapur,Bike,Cancelled
+834,"2026-07-26 07:59:00",Secunderabad,Gachibowli,Bike,Completed
+835,"2026-08-23 12:35:00",Secunderabad,Kukatpally,Auto,Completed
+836,"2026-07-31 13:53:00",Ameerpet,"Jubilee Hills",Auto,Cancelled
+837,"2026-08-31 09:14:00",Miyapur,Miyapur,Cab,Completed
+838,"2026-07-22 16:41:00","Banjara Hills","Hitech City",Auto,Cancelled
+839,"2026-07-13 02:27:00",Secunderabad,Miyapur,Cab,Completed
+840,"2026-09-24 19:01:00","Banjara Hills",Ameerpet,Bike,Completed
+841,"2026-07-30 17:41:00",Miyapur,Kukatpally,Bike,Completed
+842,"2026-08-22 09:09:00",Miyapur,Kondapur,Cab,Completed
+843,"2026-07-27 15:45:00",Miyapur,"Hitech City",Cab,Completed
+844,"2026-07-01 14:35:00",Kukatpally,Kukatpally,Bike,Completed
+845,"2026-07-15 01:20:00",Secunderabad,Kondapur,Auto,Completed
+846,"2026-09-23 02:44:00",Ameerpet,Secunderabad,Bike,Completed
+847,"2026-09-22 20:51:00","Hitech City","Jubilee Hills",Bike,Completed
+848,"2026-08-14 16:45:00",Madhapur,Gachibowli,Auto,Completed
+849,"2026-08-04 13:35:00","Hitech City",Madhapur,Auto,Completed
+850,"2026-07-21 11:41:00","Banjara Hills",Secunderabad,Auto,Completed
+851,"2026-08-13 11:18:00","Hitech City",Miyapur,Auto,Completed
+852,"2026-08-21 06:59:00","Banjara Hills",Kukatpally,Auto,Completed
+853,"2026-09-22 14:11:00",Gachibowli,Miyapur,Cab,Completed
+854,"2026-07-23 13:43:00",Miyapur,Kondapur,Bike,Completed
+855,"2026-07-07 04:36:00",Ameerpet,Ameerpet,Cab,Completed
+856,"2026-08-08 06:29:00",Ameerpet,"Jubilee Hills",Auto,Completed
+857,"2026-09-13 17:44:00",Kukatpally,Ameerpet,Auto,Cancelled
+858,"2026-08-26 08:41:00","Hitech City",Miyapur,Cab,Completed
+859,"2026-07-04 22:25:00",Kondapur,"Banjara Hills",Bike,Cancelled
+860,"2026-07-03 07:57:00",Miyapur,Gachibowli,Bike,Cancelled
+861,"2026-08-22 20:19:00",Secunderabad,"Hitech City",Auto,Completed
+862,"2026-08-12 07:57:00","Banjara Hills","Hitech City",Bike,Completed
+863,"2026-08-19 07:28:00","Hitech City","Hitech City",Bike,Cancelled
+864,"2026-08-13 01:45:00",Ameerpet,"Jubilee Hills",Auto,Completed
+865,"2026-08-15 02:54:00","Jubilee Hills","Banjara Hills",Cab,Completed
+866,"2026-09-10 01:39:00","Jubilee Hills","Jubilee Hills",Auto,Completed
+867,"2026-09-25 09:47:00","Hitech City","Banjara Hills",Auto,Completed
+868,"2026-09-02 13:38:00",Kukatpally,Miyapur,Bike,Completed
+869,"2026-09-28 09:39:00",Kukatpally,Ameerpet,Bike,Completed
+870,"2026-09-04 05:33:00",Ameerpet,Ameerpet,Cab,Completed
+871,"2026-08-28 16:22:00",Ameerpet,Madhapur,Auto,Completed
+872,"2026-08-17 16:39:00",Gachibowli,Ameerpet,Cab,Completed
+873,"2026-09-17 14:53:00","Hitech City","Banjara Hills",Auto,Completed
+874,"2026-08-30 15:13:00","Banjara Hills",Ameerpet,Cab,Completed
+875,"2026-09-06 07:58:00",Madhapur,Miyapur,Cab,Cancelled
+876,"2026-09-19 00:16:00",Kukatpally,Gachibowli,Cab,Completed
+877,"2026-08-01 00:47:00",Gachibowli,"Banjara Hills",Auto,Completed
+878,"2026-09-21 18:02:00","Hitech City",Gachibowli,Bike,Completed
+879,"2026-09-05 10:58:00",Ameerpet,Gachibowli,Bike,Completed
+880,"2026-08-02 21:04:00","Jubilee Hills","Banjara Hills",Auto,Completed
+881,"2026-09-18 20:24:00","Jubilee Hills",Kondapur,Bike,Cancelled
+882,"2026-08-06 13:18:00",Madhapur,"Hitech City",Auto,Completed
+883,"2026-07-17 22:36:00","Hitech City",Kukatpally,Cab,Completed
+884,"2026-07-15 16:13:00",Madhapur,Kukatpally,Cab,Completed
+885,"2026-09-26 11:00:00",Ameerpet,Secunderabad,Bike,Completed
+886,"2026-09-03 06:08:00","Banjara Hills",Secunderabad,Bike,Completed
+887,"2026-08-12 02:22:00",Kukatpally,Secunderabad,Auto,Cancelled
+888,"2026-07-13 00:02:00","Jubilee Hills",Ameerpet,Bike,Cancelled
+889,"2026-08-20 03:55:00","Jubilee Hills",Kukatpally,Auto,Completed
+890,"2026-07-30 00:51:00",Secunderabad,Kondapur,Cab,Completed
+891,"2026-08-11 06:33:00",Secunderabad,"Jubilee Hills",Auto,Completed
+892,"2026-08-26 18:42:00",Madhapur,"Jubilee Hills",Bike,Completed
+893,"2026-07-31 20:50:00",Secunderabad,Kondapur,Bike,Completed
+894,"2026-08-14 07:04:00",Kondapur,Ameerpet,Bike,Completed
+895,"2026-07-02 01:20:00","Hitech City","Banjara Hills",Auto,Completed
+896,"2026-07-07 09:16:00","Banjara Hills",Ameerpet,Auto,Cancelled
+897,"2026-09-06 15:17:00",Madhapur,Ameerpet,Cab,Completed
+898,"2026-08-17 21:17:00",Miyapur,Ameerpet,Bike,Completed
+899,"2026-09-16 07:24:00",Kukatpally,Kukatpally,Bike,Completed
+900,"2026-08-30 18:35:00","Hitech City","Hitech City",Auto,Completed
+901,"2026-08-08 00:34:00",Ameerpet,Miyapur,Bike,Completed
+902,"2026-08-11 12:10:00",Madhapur,Madhapur,Bike,Cancelled
+903,"2026-08-16 17:13:00","Banjara Hills",Miyapur,Auto,Completed
+904,"2026-07-27 07:33:00",Gachibowli,"Hitech City",Bike,Cancelled
+905,"2026-08-06 19:53:00",Miyapur,Kondapur,Cab,Cancelled
+906,"2026-08-27 12:02:00",Miyapur,Ameerpet,Bike,Completed
+907,"2026-07-18 03:39:00",Madhapur,"Hitech City",Auto,Completed
+908,"2026-09-20 02:23:00",Secunderabad,Kondapur,Bike,Completed
+909,"2026-08-01 09:06:00",Kondapur,Madhapur,Auto,Cancelled
+910,"2026-09-25 03:57:00",Secunderabad,Ameerpet,Auto,Completed
+911,"2026-07-20 12:35:00",Miyapur,Madhapur,Auto,Completed
+912,"2026-09-26 10:35:00",Ameerpet,Madhapur,Auto,Completed
+913,"2026-09-20 04:01:00",Secunderabad,Madhapur,Cab,Cancelled
+914,"2026-07-07 13:17:00","Jubilee Hills",Madhapur,Auto,Cancelled
+915,"2026-08-04 22:16:00",Madhapur,"Jubilee Hills",Auto,Cancelled
+916,"2026-09-27 11:11:00",Kondapur,"Hitech City",Bike,Cancelled
+917,"2026-09-05 07:03:00",Miyapur,Miyapur,Bike,Cancelled
+918,"2026-07-16 18:50:00",Ameerpet,"Hitech City",Cab,Completed
+919,"2026-07-05 15:25:00",Kondapur,Kondapur,Cab,Cancelled
+920,"2026-09-13 01:36:00",Gachibowli,Secunderabad,Cab,Cancelled
+921,"2026-09-25 02:29:00","Banjara Hills",Ameerpet,Bike,Completed
+922,"2026-07-09 02:33:00",Secunderabad,Kukatpally,Auto,Completed
+923,"2026-07-20 01:01:00",Kondapur,Ameerpet,Cab,Cancelled
+924,"2026-07-27 16:22:00","Hitech City",Kondapur,Bike,Cancelled
+925,"2026-07-26 18:38:00",Kondapur,"Hitech City",Bike,Completed
+926,"2026-09-25 19:12:00",Kondapur,"Banjara Hills",Cab,Completed
+927,"2026-07-12 12:16:00",Miyapur,Ameerpet,Bike,Completed
+928,"2026-08-26 21:14:00",Gachibowli,Ameerpet,Auto,Cancelled
+929,"2026-07-18 21:02:00","Hitech City",Kukatpally,Cab,Cancelled
+930,"2026-08-07 07:17:00","Hitech City",Ameerpet,Bike,Completed
+931,"2026-07-23 19:29:00",Gachibowli,"Banjara Hills",Auto,Completed
+932,"2026-07-12 13:37:00",Madhapur,Ameerpet,Cab,Cancelled
+933,"2026-07-01 02:33:00",Kondapur,Ameerpet,Bike,Completed
+934,"2026-07-17 18:07:00",Kukatpally,Kondapur,Bike,Completed
+935,"2026-09-04 08:21:00",Kondapur,Miyapur,Bike,Completed
+936,"2026-09-06 09:18:00",Ameerpet,"Hitech City",Auto,Completed
+937,"2026-07-16 11:02:00",Secunderabad,Secunderabad,Bike,Completed
+938,"2026-08-13 21:52:00","Banjara Hills",Madhapur,Cab,Cancelled
+939,"2026-07-23 00:28:00",Ameerpet,"Hitech City",Auto,Completed
+940,"2026-07-19 15:25:00","Jubilee Hills",Kukatpally,Auto,Cancelled
+941,"2026-07-04 12:05:00",Kukatpally,Kukatpally,Cab,Cancelled
+942,"2026-08-05 21:04:00",Kondapur,Miyapur,Auto,Completed
+943,"2026-09-15 06:03:00",Secunderabad,"Jubilee Hills",Bike,Completed
+944,"2026-07-11 07:26:00",Miyapur,Secunderabad,Cab,Completed
+945,"2026-07-13 19:05:00","Hitech City",Kukatpally,Auto,Completed
+946,"2026-08-19 01:56:00",Ameerpet,Kondapur,Auto,Cancelled
+947,"2026-09-07 03:22:00","Hitech City",Kondapur,Cab,Completed
+948,"2026-08-08 11:07:00",Kukatpally,Gachibowli,Auto,Completed
+949,"2026-07-28 09:45:00",Miyapur,"Hitech City",Auto,Completed
+950,"2026-07-01 08:59:00",Ameerpet,Gachibowli,Auto,Cancelled
+951,"2026-08-27 01:07:00","Hitech City","Hitech City",Auto,Cancelled
+952,"2026-07-18 08:05:00",Miyapur,Kukatpally,Auto,Cancelled
+953,"2026-08-30 03:11:00",Madhapur,Madhapur,Auto,Completed
+954,"2026-09-18 00:27:00",Kondapur,Gachibowli,Cab,Completed
+955,"2026-09-08 14:45:00",Madhapur,"Jubilee Hills",Auto,Completed
+956,"2026-07-16 04:38:00",Kondapur,Secunderabad,Auto,Cancelled
+957,"2026-09-07 08:36:00",Gachibowli,Kukatpally,Auto,Completed
+958,"2026-08-25 13:09:00","Banjara Hills","Hitech City",Cab,Completed
+959,"2026-09-21 23:44:00",Madhapur,Kukatpally,Auto,Completed
+960,"2026-09-14 03:45:00",Kondapur,Miyapur,Bike,Cancelled
+961,"2026-09-18 09:54:00",Secunderabad,Gachibowli,Auto,Cancelled
+962,"2026-09-01 19:07:00","Jubilee Hills",Ameerpet,Bike,Completed
+963,"2026-09-02 03:53:00",Gachibowli,"Jubilee Hills",Auto,Completed
+964,"2026-09-04 20:18:00","Banjara Hills","Banjara Hills",Cab,Completed
+965,"2026-09-19 07:08:00",Madhapur,Gachibowli,Bike,Completed
+966,"2026-09-20 23:37:00",Kondapur,"Jubilee Hills",Cab,Cancelled
+967,"2026-08-14 13:10:00",Gachibowli,"Hitech City",Auto,Cancelled
+968,"2026-07-02 08:16:00",Kukatpally,Secunderabad,Auto,Cancelled
+969,"2026-08-15 13:25:00","Banjara Hills","Hitech City",Bike,Completed
+970,"2026-07-07 02:35:00","Banjara Hills",Miyapur,Bike,Completed
+971,"2026-09-02 16:50:00",Ameerpet,"Jubilee Hills",Cab,Completed
+972,"2026-08-31 06:44:00","Hitech City",Madhapur,Cab,Cancelled
+973,"2026-07-14 12:07:00",Madhapur,Kukatpally,Cab,Cancelled
+974,"2026-07-15 09:42:00",Ameerpet,Madhapur,Bike,Completed
+975,"2026-09-28 01:39:00","Banjara Hills",Gachibowli,Cab,Completed
+976,"2026-09-05 07:55:00",Secunderabad,Miyapur,Bike,Completed
+977,"2026-07-17 21:12:00",Kondapur,"Banjara Hills",Auto,Completed
+978,"2026-09-10 19:38:00","Hitech City",Gachibowli,Auto,Completed
+979,"2026-09-23 17:23:00",Kukatpally,"Jubilee Hills",Bike,Cancelled
+980,"2026-09-27 07:05:00",Ameerpet,Miyapur,Bike,Completed
+981,"2026-07-11 05:02:00","Banjara Hills",Ameerpet,Bike,Cancelled
+982,"2026-08-12 05:34:00",Kukatpally,"Jubilee Hills",Bike,Cancelled
+983,"2026-07-25 18:58:00","Banjara Hills",Secunderabad,Auto,Completed
+984,"2026-07-14 09:49:00","Hitech City","Banjara Hills",Auto,Cancelled
+985,"2026-08-01 03:17:00","Hitech City","Hitech City",Auto,Cancelled
+986,"2026-07-19 13:59:00","Hitech City",Madhapur,Cab,Completed
+987,"2026-09-14 05:22:00",Ameerpet,"Jubilee Hills",Bike,Completed
+988,"2026-09-09 22:40:00",Miyapur,"Hitech City",Auto,Cancelled
+989,"2026-08-15 14:04:00",Secunderabad,Madhapur,Cab,Completed
+990,"2026-07-22 22:51:00",Ameerpet,Madhapur,Auto,Completed
+991,"2026-08-12 09:02:00","Jubilee Hills","Jubilee Hills",Bike,Completed
+992,"2026-09-17 09:21:00",Gachibowli,Gachibowli,Auto,Completed
+993,"2026-07-17 04:15:00",Kondapur,"Jubilee Hills",Cab,Completed
+994,"2026-08-16 07:06:00",Madhapur,"Jubilee Hills",Bike,Completed
+995,"2026-08-06 21:05:00","Banjara Hills","Jubilee Hills",Auto,Cancelled
+996,"2026-07-16 06:13:00","Hitech City","Hitech City",Bike,Completed
+997,"2026-08-08 10:14:00",Miyapur,"Jubilee Hills",Bike,Completed
+998,"2026-08-20 19:18:00","Banjara Hills","Hitech City",Cab,Completed
+999,"2026-08-30 22:57:00",Madhapur,Secunderabad,Bike,Completed
+1000,"2026-08-18 10:25:00",Ameerpet,Kondapur,Bike,Completed
